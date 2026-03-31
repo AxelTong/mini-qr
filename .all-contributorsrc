@@ -195,6 +195,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "osamajvd",
+      "name": "osamajvd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54687462?v=4",
+      "profile": "https://github.com/osamajvd",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 6,

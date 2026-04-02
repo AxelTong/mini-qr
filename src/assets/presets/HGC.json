@@ -22,7 +22,7 @@
     }
   },
   "style": {
-    "borderRadius": "28px",
+    "borderRadius": "10px",
     "background": "#710100"
   }
 }

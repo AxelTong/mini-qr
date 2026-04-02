@@ -11,11 +11,11 @@
     },
     "cornersSquareOptions": {
       "color": "#000000",
-      "type": "dot"
+      "type": "square"
     },
     "cornersDotOptions": {
       "color": "#000000",
-      "type": "dot"
+      "type": "square"
     },
     "imageOptions": {
       "margin": 2
